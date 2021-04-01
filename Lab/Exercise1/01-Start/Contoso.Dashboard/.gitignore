@@ -1,1 +1,16 @@
-node_modules
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.390869140625,
+          47.13835880864309
+        ]
+      }
+    }
+  ]
+}
